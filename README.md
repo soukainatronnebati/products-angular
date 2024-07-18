@@ -1,27 +1,12 @@
-# ProductsAngular
+## Angular project with json server
+This Angular project is a comprehensive web application that seamlessly integrates with a JSON Server, providing a robust backend for data management. The project leverages the power of Angular, a widely used front-end framework, to create a dynamic and interactive user interface.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+## Technologies Used
 
-## Development server
+Angular: The core of the front-end development, Angular facilitates the creation of a modular and scalable structure for the application. It enables the seamless integration of components, services, and routing.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+JSON Server: Serving as the backend, JSON Server is utilized to simulate a RESTful API and manage data through a JSON-based database. This simplifies the development process by providing a lightweight and easy-to-use server.
 
-## Code scaffolding
+JSON Server Auth: An extension for JSON Server that adds authentication capabilities, ensuring secure access to different parts of the application.
+![image](https://github.com/user-attachments/assets/c87b4c9e-b6b1-4b4a-9d14-29c8b8ee37ad)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
